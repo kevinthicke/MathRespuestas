@@ -1,0 +1,40 @@
+body{
+    font: normal .80em 'trebuchet ms', arial, sans-serif;
+    background: #F7F7F7 url(pattern.png) fixed;
+    color: rgb(2, 3, 27);
+    /*background: #F7F7F7 url(wallpaper.png) fixed;*/
+}
+
+h1, h2, h3{
+    font: normal 250% Monospace;
+    font-weight: bold;
+    color: black;
+    margin: 50px 0 100px 50;
+    padding: 5px 50px 5px 0;
+}
+
+h1{
+    font-size: 40px;
+}
+
+body{
+    margin: 70px;
+}
+#head{
+    font-size: 16px;
+}
+
+#menubar
+{ height: 46px;
+  width: 700px;
+  margin: 0px auto -1px auto;
+  float: right;
+  padding: 0px 0 0 0;} 
+
+#main{
+    color: rgb(0, 7, 70);
+    width: 950px;
+}
+
+
+
